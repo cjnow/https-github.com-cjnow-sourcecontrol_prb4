@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="top_app Table" language="en" table="x_top_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>top_app Table</label>
+            <language>en</language>
+            <name>x_top_app_table</name>
+            <plural>top_app Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>top.admin</sys_created_by>
+            <sys_created_on>2017-04-26 18:02:27</sys_created_on>
+            <sys_id>5983e8365b9232001f80efe5f0f91ae4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>top_app Table</sys_name>
+            <sys_package display_value="top_app" source="x_top_app">8583a8365b9232001f80efe5f0f91a25</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="top_app">8583a8365b9232001f80efe5f0f91a25</sys_scope>
+            <sys_update_name>sys_documentation_x_top_app_table__en</sys_update_name>
+            <sys_updated_by>top.admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 18:02:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

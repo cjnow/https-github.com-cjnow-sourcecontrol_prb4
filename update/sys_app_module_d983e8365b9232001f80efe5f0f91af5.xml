@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="top_app">118368365b9232001f80efe5f0f91a2e</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>top_app Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_top_app_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_top_app.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>top.admin</sys_created_by>
+        <sys_created_on>2017-04-26 18:02:27</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>d983e8365b9232001f80efe5f0f91af5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>top_app Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="top_app" source="x_top_app">8583a8365b9232001f80efe5f0f91a25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="top_app">8583a8365b9232001f80efe5f0f91a25</sys_scope>
+        <sys_update_name>sys_app_module_d983e8365b9232001f80efe5f0f91af5</sys_update_name>
+        <sys_updated_by>top.admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 18:02:27</sys_updated_on>
+        <timeline_page/>
+        <title>top_app Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
